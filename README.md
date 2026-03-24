@@ -16,7 +16,7 @@ Built a structured SQL-based querying system to extract actionable insights from
 ---
 
 ## Project 2: Academic Progress Evaluation System  
-[![SQL + Python](https://img.shields.io/badge/SQL%20%2B%20Python-Rule%20Engine-green?style=flat)]
+[![SQL + Python](https://img.shields.io/badge/SQL%20%2B%20Python-Rule%20Engine-green?style=flat)](https://github.com/seoyeon3/SQL-Projects/tree/main/academic-progress_check_project)
 
 ### Overview
 Built a rule-based data processing system that evaluates student academic progress by mapping completed courses to program and stream requirements using SQL and Python.
