@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# COMP3311 21T3 Ass2 ... progression check for a given student
 
 import sys
 import psycopg2
