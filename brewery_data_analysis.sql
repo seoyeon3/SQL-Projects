@@ -1,4 +1,3 @@
--- COMP3311 21T3 Assignment 1
 
 -- Q1: oldest brewery
 
