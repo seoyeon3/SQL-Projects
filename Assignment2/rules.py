@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# COMP3311 21T3 Ass2 ... print list of rules for a program or stream
 
 import sys
 import psycopg2
