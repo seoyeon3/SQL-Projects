@@ -1,6 +1,3 @@
-# COMP3311 21T3 Ass2 ... Python helper functions
-# add here any functions to share between Python scripts 
-# you must submit this even if you add nothing
 import re
 
 def getProgram(db,code):
